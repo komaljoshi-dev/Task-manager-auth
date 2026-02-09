@@ -11,7 +11,7 @@ It implements secure user authentication and authorization, ensuring that users 
 - Password hashing using bcrypt
 - JWT-based authentication
 - Protected routes using middleware
-- Task ownership authorization
+- Task ownership authorization 
 - Centralized error handling
 - Secure CRUD operations for tasks
 
