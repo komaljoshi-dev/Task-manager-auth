@@ -1,4 +1,7 @@
 # Secure Task Manager API (JWT Authentication)
+Assignment 4 for backend development and mern integration
+
+---
 
 This project is a backend API for a Task Management system built using Node.js, Express, MongoDB, and JSON Web Tokens (JWT).  
 It implements secure user authentication and authorization, ensuring that users can only access and manage their own tasks.
